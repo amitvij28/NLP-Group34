@@ -1,5 +1,13 @@
 # NLP-Group34 : Numerical and Temporal Fact Checking
 
+## Project Members
+- Amit Vij (Student Number: 6005217)
+- Aratrika Das (Student Number: 5298121) 
+- Swetha Balaram (Student Number: 6019552)
+- Yash Mundhra (Student Number: 5017874)
+
+## Repository Description
+
 In this git repo, we have added the scripts used for training, evaluating and generation subqueries for various claims against a given evidence corpus. 
 
 The repo is structured as follows : 
